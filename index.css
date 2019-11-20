@@ -1,0 +1,32 @@
+.cmaindiv {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.cpassform {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.cpassinput {
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 30%;
+}
+
+.cpasssubmit {
+    margin-top: 40px;
+    margin-left: 10%;
+    width: 30%;
+}
+
+.cerrorlabel {
+    text-align: center;
+    color: red;
+    margin-top: 10px;
+}
+
+.ctenpassbutton {
+    width: 28%;
+    margin-left: 36%;
+}
